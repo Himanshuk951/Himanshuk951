@@ -37,5 +37,4 @@ Currently learning advanced frontend development while crafting UI systems in Fi
 
 ### 🌍 Let’s Connect
 
-Instagram: yourusername  
 Portfolio: Coming Soon  
