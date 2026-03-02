@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Himanshu 👋
 
-<!--
-**Himanshuk951/Himanshuk951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CS Student  
+🎨 UI/UX Designer  
+🌐 Frontend Developer  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML
+- CSS
+- JavaScript
+- Figma
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Currently Working On
+- Personal Portfolio Website
+- UI/UX Case Studies
+- Learning React
+
+## 📫 Connect With Me
+- Instagram: soon
+- Portfolio: comeing soon!!
