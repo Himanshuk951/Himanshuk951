@@ -1,32 +1,41 @@
-<h1 align="center">Hi, I'm Himanshu 👋</h1>
-<h3 align="center">CS Student • Frontend Developer • UI/UX Designer</h3>
-
----
-
-## 🚀 About Me
-- 🎓 B.Tech Computer Science Student
-- 💻 Passionate about Web Development
-- 🎨 Love building clean UI/UX in Figma
-- 🚀 Currently learning React & Backend Development
-- 📈 Goal: Become a top-tier developer
-
----
-
-## 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,figma" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Himanshu</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshuk951&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshuk951&theme=tokyonight" />
+UI/UX Designer • Frontend Developer • CS Student
 </p>
 
 ---
 
-## 🌐 Connect With Me
-- 📸 Instagram: yourusername
-- 🌍 Portfolio: Coming Soon!!
+### 🧠 Designing Experiences, Not Just Interfaces.
+
+I build clean, minimal, and user-focused digital experiences.  
+Currently learning advanced frontend development while crafting UI systems in Figma.
+
+---
+
+### 🛠️ Tools I Use
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,github" />
+</p>
+
+---
+
+### 📌 What I’m Working On
+
+- Personal Portfolio Website  
+- UI Case Studies  
+- React-based Projects  
+- Design Systems  
+
+---
+
+### 📊 Growth
+
+<img src="https://github-readme-stats.vercel.app/api?username=Himanshuk951&show_icons=true" />
+
+---
+
+### 🌍 Let’s Connect
+
+Instagram: yourusername  
+Portfolio: Coming Soon  
