@@ -15,7 +15,7 @@ Currently learning advanced frontend development while crafting UI systems in Fi
 ### 🛠️ Tools I Use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,git,github" />
 </p>
 
 ---
@@ -29,9 +29,10 @@ Currently learning advanced frontend development while crafting UI systems in Fi
 
 ---
 
-### 📊 Growth
+### 📊 GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshuk951&theme=github_dark" />
+
 ---
 
 ### 🌍 Let’s Connect
