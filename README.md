@@ -31,8 +31,7 @@ Currently learning advanced frontend development while crafting UI systems in Fi
 
 ### 📊 Growth
 
-<img src="https://github-readme-stats.vercel.app/api?username=Himanshuk951&show_icons=true" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshuk951&theme=github_dark" />
 ---
 
 ### 🌍 Let’s Connect
