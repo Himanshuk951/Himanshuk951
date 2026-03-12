@@ -20,15 +20,6 @@ Currently learning advanced frontend development while crafting UI systems in Fi
 
 ---
 
-### 📌 What I’m Working On
-
-- Personal Portfolio Website  
-- UI Case Studies  
-- React-based Projects  
-- Design Systems  
-
----
-
 ### 📊 GitHub Stats
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Himanshuk951&theme=github_dark" />
